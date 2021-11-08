@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Talks on David Bucher | Personal Website</title>
-    <link>https://dabuchera.github.io/talks/</link>
+    <link>https://dabuchera.github.io/personal-website/talks/</link>
     <description>Recent content in Talks on David Bucher | Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dabuchera.github.io/talks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://dabuchera.github.io/personal-website/talks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development of a cloud-based Common Data Environment for purposes of a construction company</title>
-      <link>https://dabuchera.github.io/talks/talk1/</link>
+      <link>https://dabuchera.github.io/personal-website/talks/talk1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dabuchera.github.io/talks/talk1/</guid>
+      <guid>https://dabuchera.github.io/personal-website/talks/talk1/</guid>
       <description>The topic of the Common Data Environment (CDE) is based on the idea of linking a collaborative project space with the cloud technology. It should then be possible for all project participants to move increasingly towards an integral approach of project management. This means that methods of the BIM process can be used more frequently in later project phases in addition to the planning phases, and the efficiency and optimization of the construction process can be optimized by involving all actors during a project.</description>
     </item>
     

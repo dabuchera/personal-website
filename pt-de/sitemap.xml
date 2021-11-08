@@ -2,64 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://dabuchera.github.io/pt-de/authors/</loc>
+    <loc>https://dabuchera.github.io/personal-website/pt-de/authors/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dabuchera.github.io/authors/"
+                href="https://dabuchera.github.io/personal-website/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-de"
-                href="https://dabuchera.github.io/pt-de/authors/"
+                href="https://dabuchera.github.io/personal-website/pt-de/authors/"
                 />
   </url><url>
-    <loc>https://dabuchera.github.io/pt-de/categories/</loc>
+    <loc>https://dabuchera.github.io/personal-website/pt-de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dabuchera.github.io/categories/"
+                href="https://dabuchera.github.io/personal-website/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-de"
-                href="https://dabuchera.github.io/pt-de/categories/"
+                href="https://dabuchera.github.io/personal-website/pt-de/categories/"
                 />
   </url><url>
-    <loc>https://dabuchera.github.io/pt-de/</loc>
+    <loc>https://dabuchera.github.io/personal-website/pt-de/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dabuchera.github.io/"
+                href="https://dabuchera.github.io/personal-website/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-de"
-                href="https://dabuchera.github.io/pt-de/"
+                href="https://dabuchera.github.io/personal-website/pt-de/"
                 />
   </url><url>
-    <loc>https://dabuchera.github.io/pt-de/series/</loc>
+    <loc>https://dabuchera.github.io/personal-website/pt-de/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dabuchera.github.io/series/"
+                href="https://dabuchera.github.io/personal-website/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-de"
-                href="https://dabuchera.github.io/pt-de/series/"
+                href="https://dabuchera.github.io/personal-website/pt-de/series/"
                 />
   </url><url>
-    <loc>https://dabuchera.github.io/pt-de/tags/</loc>
+    <loc>https://dabuchera.github.io/personal-website/pt-de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://dabuchera.github.io/tags/"
+                href="https://dabuchera.github.io/personal-website/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-de"
-                href="https://dabuchera.github.io/pt-de/tags/"
+                href="https://dabuchera.github.io/personal-website/pt-de/tags/"
                 />
   </url>
 </urlset>
